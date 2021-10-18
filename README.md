@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keknaiNN
+- 👀 I’m interested in Web Developing and Machine Learning.
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 How to reach me - here.
